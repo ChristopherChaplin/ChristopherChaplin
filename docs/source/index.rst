@@ -1,19 +1,8 @@
 Welcome to Lumache's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+自宅にシャワーがなくても、贅沢な屋外シャワーをお楽しみいただけます！ Nivitoの屋外シャワーはどんな高級住宅にも最適で、始めるために必要なものがすべて揃っています。 入浴の必需品をすべて収納できる十分なスペースがあるこのシャワーは、屋外で過ごすのが大好きな人に最適です。 さあ、星空の下でリラックスできるシャワーを浴びましょう。ニヴィートのアウトドアシャワーがあなたを待っています！ `キッチン 水栓真鍮 <https://www.nivito.jp>`_
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
 --------
 
 .. toctree::
